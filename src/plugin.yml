@@ -1,0 +1,6 @@
+name: DoNothing
+main: ru.qpexlegendary.DoNothing
+api: 1.0.9
+version: 1.0.1
+author: qPexLegendary
+description: "Данный плагин ничего не делает и хорошо с этим справляется!"
